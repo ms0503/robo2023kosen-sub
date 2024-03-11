@@ -1,0 +1,3 @@
+[submodule "libmecha"]
+	path = libmecha
+	url = https://github.com/ms0503/libmecha.git
